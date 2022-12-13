@@ -1,0 +1,24 @@
+{
+  "name": "projeto-cd",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "dev": "next dev"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/felipeant12/projeto-cd.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/felipeant12/projeto-cd/issues"
+  },
+  "homepage": "https://github.com/felipeant12/projeto-cd#readme",
+  "dependencies": {
+    "next": "^13.0.6",
+    "react": "^18.2.0",
+    "react-dom": "^18.2.0"
+  }
+}
